@@ -86,15 +86,6 @@ Task management app with filtering, updates, and persistent state.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SarangBaraskar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangBaraskar&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Current Focus
 - Improving MERN Stack  
 - Building real-world projects  
