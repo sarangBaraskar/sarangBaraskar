@@ -1,115 +1,127 @@
-<h1 align="center">Hi, I'm Sarang Baraskar 👋</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | Problem Solver</h3>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Sarang%20Baraskar%20👋&fontSize=40&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
+  
+  <br/>
+
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React.js;Mastering+The+MERN+Stack;Building+Responsive+Web+Apps;Clean+Code+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me
-I am a passionate Frontend Developer with strong knowledge of **HTML, CSS, JavaScript, and React**, along with growing expertise in backend technologies like **Node.js, Express.js, and MongoDB**.  
-I enjoy building modern, responsive, and user-friendly web applications while continuously improving my coding skills.
+# 🚀 About Me
+I’m a passionate **Frontend Developer** with a strong foundation in **React, JavaScript (ES6+), and CSS/HTML**. I am currently focused on becoming a proficient **MERN Stack Developer**, building clean, scalable applications using **Node, Express, and MongoDB**.  
+
+My goal is to deliver exceptional user experiences and write maintainable, production-ready code.
 
 ---
 
-## 🎯 Career Objective
-I aim to build a successful career as a developer by applying my technical skills, learning continuously, and contributing to meaningful projects. I am dedicated, hardworking, and always ready to take on new challenges.
+# 🛠️ Skills
 
----
+### 🎨 Frontend
+- React.js, JSX, Component Architecture  
+- JavaScript (ES6+)  
+- React Hooks (useState, useEffect)  
+- **Redux Toolkit** (Core Skill)  
+- HTML5, CSS3, Responsive UI  
+- TailwindCSS / Bootstrap  
 
-## 🛠️ Tech Stack
+### 🧠 State Management
+- **Redux Toolkit** (Proficient)  
+- Redux Data Flow  
 
-### **Frontend**
-- HTML5  
-- CSS3 / TailwindCSS / Bootstrap  
-- JavaScript (ES6+)  
-- React.js  
-- Redux Toolkit  
+### ⚙️ Backend (MERN Learner)
+- Node.js (Beginner)  
+- Express.js (APIs, Routing, Middleware)  
+- REST API Development Basics  
 
-### **Backend**
-- Node.js (Beginner)  
-- Express.js (APIs, Routing, Middleware)  
-
-### **Database**
-- MongoDB (CRUD)  
+### 🗄 Database
+- MongoDB (CRUD Operations, Basics)  
 - MySQL (Basics)
 
-### **Tools**
-- VS Code  
-- Postman  
-- Git & GitHub  
-- Vercel Deployment  
+### 🧰 Tools & Workflow
+- Git & GitHub  
+- VS Code  
+- Postman (API Testing)  
+- Vercel Deployment  
 
 ---
 
-## 📚 Soft Skills
-- Problem Solving  
-- Team Work  
-- Leadership  
-- Adaptability  
+# 🚀 Featured Projects
+
+## 💬 Real-Time Chat Interface (WIP)
+- Live messaging UI with Clean responsive layout  
+- **Key Feature:** Typing indicator and instant updates using **Socket.io** (frontend integration).
+
+**Tech:** React, Redux Toolkit, Socket.io  
 
 ---
 
-# 📌 **My Projects**
+## ✅ To-Do List (React + Redux Toolkit)
+- Task management application with filtering, updates, and persistence.
+- **Key Feature:** Robust state management using **Redux Toolkit**.
 
-### 🛋️ **1. Furniro – Modern Furniture Blog**
-Responsive blog for furniture and decor enthusiasts.  
-**Tech:** HTML | CSS | JavaScript 
-
----
-
-### 🛒 **2. E-commerce Web Clone**
-Functional e-commerce UI with dynamic cart and product listing.  
-**Tech:** HTML | CSS | JavaScript  
+**Tech:** React, Redux Toolkit
 
 ---
 
-### 📝 **3. Note App**
-Fast and intuitive note-taking application with clean UI.  
-**Tech:** React | Component-based architecture  
+## 🛋️ Furniro – Modern Furniture Blog
+- High-fidelity, responsive blog UI focused on modern aesthetics.
+- **Key Feature:** Excellent responsive design across all screen sizes.
+
+**Tech:** HTML, CSS, JavaScript 
 
 ---
 
-### 💬 **4. Real-Time Chat Interface (Work in Progress)**
-Chat app with live typing indicators using Socket.io.  
-**Tech:** React | Redux Toolkit | Socket.io  
+## 🛒 E-commerce Web Clone
+- Functional front-end UI simulating product listing and dynamic cart interactions.
+
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 🖼️ **5. Photo Gallery Web Application**
-Modern, responsive gallery with smooth UI/UX.  
-✨ Great for handling and displaying images.  
-
-
----
-
-### ✅ **6. To-Do List (React + Redux Toolkit)**
-Task management app with filtering, updates, and persistent state.  
-**Tech:** React | Redux Toolkit  
+# 🔥 Dynamic Contribution Graph
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarangBaraskar&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
-## 🌱 Current Focus
-- Improving MERN Stack  
-- Building real-world projects  
-- Enhancing problem-solving skills  
+# 🏅 GitHub Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-Proficient-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/MERN-Learner-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%26GitHub-Workflow-100000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 📄 Resume  
-You can view my complete résumé here:  
-👉 **[Download Resume](#)**
+# 📬 Connect With Me
 
----
+<div align="center">
 
-## 📫 Contact Me  
-📧 Email: **sarangbaraskar07@gmail.com**  
-📱 Phone: **+91 9579773796**  
-🔗 GitHub: **https://github.com/SarangBaraskar**  
-🔗 LinkedIn: *Add your LinkedIn link here*
+<a href="https://www.linkedin.com/in/SarangBaraskar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a> 
+<a href="mailto:sarangbaraskar07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/SarangBaraskar" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
----
+<br/>
+<br/>
 
-## 🟩 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SarangBaraskar&theme=react-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=SarangBaraskar&color=blue&style=flat-square&label=Profile+Views)
 
----
+</div>
 
-### ⭐ If you like my work, consider giving a star to my projects!
+<p align="center">
+⭐ *If you like my work, consider giving a star to my repositories!*
+</p>
